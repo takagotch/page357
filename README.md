@@ -1,6 +1,13 @@
 ### https://takagotch.github.io/page357/
 ---
 
+```
+vue
+```
+
+```
+```
+
 
 # Basix Admin - VueJS Bootstrap v4 Admin Dashboard Template #
 
