@@ -6,7 +6,7 @@ export default {
       icon: 'fa fa-dashboard',
       badge: {
         variant:'success',
-        text: 'NEW'
+        text: 'New'
       }
     },
     {
