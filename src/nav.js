@@ -30,7 +30,7 @@ export default {
           icon: 'fa fa-puzzle-piece',
           badge: {
             variant: 'danger',
-            text: 'NEW'
+            text: 'New'
           }
         },
         {
