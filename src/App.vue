@@ -1,4 +1,5 @@
 <template>
+  <!-- app -->
   <div id="app">
     <auth-layout v-if="isAuth"></auth-layout>
       <div class="admin-container" v-else>
@@ -13,9 +14,11 @@
         </div>
       </div>
   </div>
+
 </template>
 
 <script>
+
 import nav from './nav'
 import Header from './components/Header.vue'
 import Sidebar from './components/Sidebar.vue'
@@ -44,9 +47,12 @@ export default {
     }
   }
 }
+
 </script>
 
+
 <style lang="scss">
+
 @import url('./assets/css/font-awesome.min.css');
 @import url('./assets/css/themify-icons.css');
 @import url('./assets/css/pe-icon-7-filled.css');
@@ -58,4 +64,5 @@ export default {
 button{
     cursor: pointer;
 }
+
 </style>
