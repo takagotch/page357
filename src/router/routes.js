@@ -149,3 +149,4 @@ export const routes = [
     // 404 redirect to home
     { path: '*', redirect: { name: 'Page404', component: Page404 }  }
 ];
+
